@@ -8,7 +8,7 @@ For full reference, setup instructions, and configuration options, head over to 
 
 ## 🚀 Quick Links
 
-- **Website:** [lemon-stock.ch](https://lemon-score.ch)  
+- **Website:** [lemon-score.ch](https://lemon-score.ch)  
 - **Documentation:** [docs.lemon-score.ch](https://docs.lemon-score.ch)
 
 ---
